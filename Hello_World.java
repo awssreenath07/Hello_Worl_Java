@@ -3,6 +3,6 @@ class Hello_World{
      System.out.println("Hello Guys"); 
      System.out.println("Lets start learning");
      System.out.println("------- DEVOPS --------");
-     System.out.println("---Ho Ho Hooooo");
+     System.out.println("---Ho Ho Hoooooo");
     }  
 }  
